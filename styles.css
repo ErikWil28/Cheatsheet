@@ -1,0 +1,49 @@
+html {
+    background-image: url(https://images.pexels.com/photos/417074/pexels-photo-417074.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.header {
+    font-family: 'Josefin Sans';
+    text-align: center;
+    font-size: 80px;
+    color:ghostwhite;
+    filter: drop-shadow(3px 5px 0px black);
+
+}
+
+.container {
+    max-width: 700px;
+    height: auto;
+    margin:100px auto;
+    background-color: whitesmoke;
+    border: 1px solid black;
+}
+
+table {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    margin: auto;
+    padding: 10px;
+    border-spacing: 0px;
+}
+
+th {
+    padding: 0px 20px;
+    text-align: center;
+    border-bottom: 1px solid black;
+}
+
+td {
+    text-align: center;
+    border: 1px solid black;
+    padding: 10px;
+}
+
+.tabletitle p {
+    font-size: 40px;
+    color: darkcyan;
+}
+
